@@ -4,7 +4,7 @@
 ## Creating functions to cache the inverse of a matrix,
 ## so that we do not have to inverse the matrix over and over again.
 
-## Caching the inverse of the matrix with this function
+## Caching the inverse of the matrix with this function (testing commit)
 
 makeCacheMatrix <- function(x = matrix()) {
     i <- matrix()
